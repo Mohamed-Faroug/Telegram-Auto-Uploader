@@ -35,13 +35,13 @@ To get your api_id and api_hash, visit: https://my.telegram.org
 
 
 ##📜 Scripts
-- telegram_uploader.py
+###  telegram_uploader.py
 Main script: Uploads all valid files from current directory.
 
-- auto_upload.bat
+###  auto_upload.bat
 Windows batch file to automate uploads every 3 hours using Task Scheduler.
 
-- watch_folder.py
+### watch_folder.py
 Optional live monitor using watchdog to auto-upload files as soon as they're added.
 
 
