@@ -16,20 +16,21 @@ A Python-based tool to automatically upload files to a Telegram channel or group
 
 ### 1. Clone the Repo
 
-    ```bash
-    git clone https://github.com/YOUR_USERNAME/telegram-auto-uploader.git
+```bash
+ git clone https://github.com/YOUR_USERNAME/telegram-auto-uploader.git
+```
   cd telegram-auto-uploader
 ## Install Requirements
-    ```bash
-    pip install -r requirements.txt
-
+ ```bash
+        pip install -r requirements.txt
+```
 
 ##🔧 Configuration
-    ```bash
-        api_id = 'YOUR_API_ID'
+  ```bash
+         api_id = 'YOUR_API_ID'
         api_hash = 'YOUR_API_HASH'
         target_channel = 'https://t.me/yourchannel'
-
+```
 To get your api_id and api_hash, visit: https://my.telegram.org
 
 
